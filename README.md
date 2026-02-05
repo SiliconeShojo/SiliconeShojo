@@ -31,15 +31,6 @@
 
   <br />
 
-  <h3>💻 Hardware Station</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/GPU-RTX%204070%20Ti%20(12GB)-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/RAM-32GB%20DDR4-blue?style=for-the-badge&logo=clock&logoColor=white" />
-  </p>
-
-  <br />
-
   <h3>🏆 Featured Projects</h3>
   <p align="center">
     <a href="https://github.com/SiliconeShojo/TagForge"><img src="https://stats.siliconeshojo.site/api/pin?username=SiliconeShojo&repo=TagForge&theme=tokyonight&bg_color=00000000&show_owner=false&v=16" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="30" height="1" alt="spacer" /><a href="https://github.com/SiliconeShojo/Codex"><img src="https://stats.siliconeshojo.site/api/pin?username=SiliconeShojo&repo=Codex&theme=tokyonight&bg_color=00000000&show_owner=false&v=16" /></a>
