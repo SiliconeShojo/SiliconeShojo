@@ -42,7 +42,7 @@
 
   <h3>🏆 Featured Projects</h3>
   <p align="center">
-    <a href="https://github.com/SiliconeShojo/TagForge"><img src="https://stats.siliconeshojo.site/api/pin?username=SiliconeShojo&repo=TagForge&theme=tokyonight&bg_color=00000000&show_owner=false&v=16" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="30" height="1" alt="spacer" /><a href="https://github.com/SiliconeShojo/Wardrobe"><img src="https://stats.siliconeshojo.site/api/pin?username=SiliconeShojo&repo=Wardrobe&theme=tokyonight&bg_color=00000000&show_owner=false&v=16" /></a>
+    <a href="https://github.com/SiliconeShojo/TagForge"><img src="https://stats.siliconeshojo.site/api/pin?username=SiliconeShojo&repo=TagForge&theme=tokyonight&bg_color=00000000&show_owner=false&v=16" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="30" height="1" alt="spacer" /><a href="https://github.com/SiliconeShojo/Wardrobe"><img src="https://stats.siliconeshojo.site/api/pin?username=SiliconeShojo&repo=Codex&theme=tokyonight&bg_color=00000000&show_owner=false&v=16" /></a>
   </p>
 
   <br />
